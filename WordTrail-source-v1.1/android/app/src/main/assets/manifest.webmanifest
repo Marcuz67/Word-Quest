@@ -1,0 +1,14 @@
+{
+  "name": "Word Trail — Grade 8 Vocabulary",
+  "short_name": "Word Trail",
+  "description": "Build word power through definitions, context clues, and sentence building.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#84e9a3",
+  "theme_color": "#84e9a3",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
